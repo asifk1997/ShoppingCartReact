@@ -1,3 +1,11 @@
+Shopping Cart App using React
+
+Screenshots :
+
+![Alt text](screenshots/Screenshot (71).png "Product Page Top")
+![Alt text](screenshots/Screenshot (72).png "Product Page Bottom")
+![Alt text](screenshots/Screenshot (73).png "Cart Page Top")
+![Alt text](screenshots/Screenshot (74).png "Cart Page Bottom")
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
