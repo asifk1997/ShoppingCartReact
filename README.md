@@ -5,7 +5,8 @@ Screenshots :
 ![Alt text](screenshots/Screenshot_71.png "Product Page Top")
 ![Alt text](screenshots/Screenshot_72.png "Product Page Bottom")
 ![Alt text](screenshots/Screenshot_73.png "Cart Page Top")
-![Alt text](screenshots/Screenshot_74.png "Cart Page Bottom")
+![Alt text](screenshots/Screenshot_74.png "Cart Page Bottom")\
+\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
